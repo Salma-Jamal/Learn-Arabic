@@ -1,7 +1,7 @@
 ## This project is an application that you can use to learn Arabic
 
 * Demos of the App <br/> <br/>
-![Learn-Arabic](Demo/received_1128312537600435.jpeg)
+
 ![Learn-Arabic](Demo/20210125_135325[1].gif)
 ![Learn-Arabic](Demo/20210125_145932[1].gif)
 ![Learn-Arabic](Demo/20210125_150705[1].gif)
