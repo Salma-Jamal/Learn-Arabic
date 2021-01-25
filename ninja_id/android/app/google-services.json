@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185663503106",
+    "project_id": "learn-arabic-93508",
+    "storage_bucket": "learn-arabic-93508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185663503106:android:6c4c3ee2849630ebd7e01b",
+        "android_client_info": {
+          "package_name": "com.example.ninjaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185663503106-o2jebet08ufs2q2m43u0csgk5iq9blj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFY3VYG6-XCgD3ikfyQ_QTsij4-TsFkbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185663503106-o2jebet08ufs2q2m43u0csgk5iq9blj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,202 @@
+name: ninjaid
+description: A new Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_spinkit: ^4.1.2+1
+  circle_wheel_scroll: ^0.0.1+1
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  flutter_launcher_icons: ^0.7.2+1
+  audioplayers: ^0.10.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.jpg"
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+   # To add assets to your application, add an assets section, like this:
+  assets:
+     - assets/click.wav
+     - assets/error.mp3
+     - assets/correct.mp3
+     - assets/
+     - assets/letters/
+     - assets/Mouse-Click.mp3
+     - assets/fa2.mp3
+     - assets/feel.mp3
+     - assets/applause10.mp3
+     - assets/correct2.mp3
+     - assets/wrong.mp3
+     - assets/Alef.m4a
+     - assets/Ba2.m4a
+     - assets/Ta2.m4a
+     - assets/Tha2.m4a
+     - assets/Gem.m4a
+     - assets/7a2.m4a
+     - assets/5a2.m4a
+     - assets/Dal.m4a
+     - assets/Zal.m4a
+     - assets/Ra2.m4a
+     - assets/Zen.m4a
+     - assets/Seen.m4a
+     - assets/Sheen.m4a
+     - assets/Sad.m4a
+     - assets/Dad.m4a
+     - assets/Tta2.m4a
+     - assets/Zah.m4a
+     - assets/3een.m4a
+     - assets/Gheen.m4a
+     - assets/Fa2.m4a
+     - assets/Qaf.m4a
+     - assets/Kaf.m4a
+     - assets/Lam.m4a
+     - assets/Meem.m4a
+     - assets/Noon.m4a
+     - assets/Ha2.m4a
+     - assets/Waw.m4a
+     - assets/Yaa2.m4a
+     - assets/Asad.m4a
+     - assets/Arnab.m4a
+     - assets/Bab.m4a
+     - assets/Batreek.m4a
+     - assets/Temsa7.m4a
+     - assets/Tag.m4a
+     - assets/Tho3ban.m4a
+     - assets/Tha3lab.m4a
+     - assets/Gamal.m4a
+     - assets/Gazar.m4a
+     - assets/7omar.m4a
+     - assets/7osan.m4a
+     - assets/5aroof.m4a
+     - assets/5ofash.m4a
+     - assets/Draga.m4a
+     - assets/Dob.m4a
+     - assets/Zahab.m4a
+     - assets/Ze2b.m4a
+     - assets/Ra2a.m4a
+     - assets/Roman.m4a
+     - assets/Zahra.m4a
+     - assets/zrafa.m4a
+     - assets/Sab3a.m4a
+     - assets/Sreer.m4a
+     - assets/Shams.m4a
+     - assets/Shagra.m4a
+     - assets/Sandok.m4a
+     - assets/Saro5.m4a
+     - assets/Dabab.m4a
+     - assets/Defda3.m4a
+     - assets/Ze2b.m4a
+     - assets/Zahab.m4a
+     - assets/Tawela.m4a
+     - assets/Ta2era.m4a
+     - assets/Zaby.m4a
+     - assets/Zaraf.m4a
+     - assets/3alam.m4a
+     - assets/3asfour.m4a
+     - assets/Ghaba.m4a
+     - assets/Ghzala.m4a
+     - assets/Ketar.m4a
+     - assets/Qam7.m4a
+     - assets/Kangaro.m4a
+     - assets/kwala.m4a
+     - assets/Lemon.m4a
+     - assets/Lo2lo2.m4a
+     - assets/Yaa2.m4a
+     - assets/Mekas.m4a
+     - assets/Ma3la2a.m4a
+     - assets/Namla.m4a
+     - assets/Nafeza.m4a
+     - assets/Hatef.m4a
+     - assets/Hdya.m4a
+     - assets/Wesada.m4a
+     - assets/Wa7eed.m4a
+     - assets/Yad.m4a
+     - assets/Yakteen.m4a
+     - assets/Ma2.m4a
+     - assets/Ward.m4a
+     - assets/Bata.m4a
+     - assets/Ra2e3a.m4a
+     - assets/Anaakra2.m4a
+     - assets/Nemr.m4a
+     - assets/Sawf.m4a
+     - assets/Melon.m4a
+     - assets/Triangle.m4a
+     - assets/Circle.m4a
+     - assets/Square.m4a
+     - assets/Mostl.m4a
+     - assets/Zara3.m4a
+     - assets/Waraq.m4a
+     - assets/Waqa3.m4a
+     - assets/Sa5an.m4a
+     - assets/Rad.m4a
+     - assets/Qaws.m4a
+     - assets/Qara2.m4a
+     - assets/Qamr.m4a
+     - assets/Qalb.m4a
+     - assets/Qafaz.m4a
+     - assets/Ma2el.m4a
+     - assets/La3ab.m4a
+     - assets/Akal.m4a
+     - assets/Gabal.m4a
+     - assets/Barad.m4a
+
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
