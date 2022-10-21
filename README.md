@@ -1,4 +1,4 @@
-## This project is an application that you can use to learn Arabic
+## This project is a kid-friendly application for learning Arabic
 
 * Demos of the App <br/> <br/>
 ![Learn-Arabic](Demo/20210125_160703[1].gif)
